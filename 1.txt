@@ -1,9 +1,9 @@
 one
-two_patch
-three_patch
+two
+three
 four
-five_cherrypick
-six_cherrypick
+five
+six
 seven
 eight
 nine
