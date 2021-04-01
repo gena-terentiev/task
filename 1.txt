@@ -1,5 +1,5 @@
-one
-two_patch
+folder2: git_0: Change two lines in 1.txt. Commit + Push.
+folder2: git_0: Change two lines in 1.txt. Commit + Push.
 three_patch
 four
 five_cherrypick
